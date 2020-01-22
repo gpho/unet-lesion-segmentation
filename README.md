@@ -17,9 +17,11 @@ pip install keras pandas numpy skimage scipy
 This Jupyter notebook lends code and inspiration from multiple sources:
 
 2D U-Net
+* Original paper: [Ronneberger et al 2015](https://link.springer.com/chapter/10.1007/978-3-319-24574-4_28)
 * https://www.kaggle.com/keegil/keras-u-net-starter-lb-0-277
 * https://github.com/jocicmarko/ultrasound-nerve-segmentation
 
 3D U-Net
+* Original paper: [Çiçek et al 2016](https://link.springer.com/chapter/10.1007/978-3-319-46723-8_49)
 * https://github.com/ellisdg/3DUnetCNN
 * 3D data augmentation https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
